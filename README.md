@@ -1,2 +1,8 @@
 # Grand-Stand-Systems
-Repository of my SNHU Project 1 from CS320
+SNHU CS320
+# How can I ensure that my code, program, or software is functional and secure?
+I ensured that my code was functional by testing, testing and more testing. Extensive testing is the core tenant of verifying structural integrity throughout the construction industry, why would it be any different when it comes to technological structure? I was given clear requirements and I was able to write multiple tests to verify not only that each method was giving the correct output, but also that any errors would be handled in almost any circumstance. Throughout this coding process, I'm repeatedly testing after each line of code, just to make sure everything still functions as intended.
+# How do I interpret user needs and incorporate them into a program?
+The most important step in doing this is to understand the true need of the user, rather than just accepting the stated need at face value. You can use the 5 Why's technique to ask further questions in order to fully understand the funamental need behind this veil of uncertainty. You have to remember that normal folks aren't programmers, so their technical skills might be a bit lacking in comparison to a professional programmer.
+# How do I approach designing software?
+I find that it's vastly important to understand both the problem the user has, AND the users themselves. If you have an understanding of both, you can create programs from a much better starting point, mentally that are much more optimized to fit the user's true needs. You must first specify what exactly the problem is that you're trying to solve, define the requirements of the software for the consumer and user, sketch out the solution to get a rough workflow, maybe do some mockups along the way, then figure out the physical requirements details, build, test, iterate, and document and deliver. It's more simple than it sounds when you look at it from 20 feet away.
